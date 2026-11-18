@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I am [AARNA BAJAJ]!
 
-<!--
-**bajajaarna4-bit/bajajaarna4-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- B.Tech CSE Student at K.R. Mangalam University, Gurugram (Batch 2024–28)
 
-- 🔭 I’m currently working small projects with python and html, iot projects on multithreads ...
-- 🌱 I’m currently learning dsa with c++ and( linux in univeristy) how multithreads work the code behind it and logic ...
-- 👯 I’m looking to collaborate on projects related to real world with help of ai initially...
-- 🤔 I’m looking for help with leetcode about c++ python ...
-- 💬 Ask me about technical stack related to aiml...
-- 📫 How to reach me: bajajaarna4@gmail.com...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently learning: Linux shell scripting, Git/GitHub workflows, and Python
+
+- Interested in: [Cybersecurity / AI-ML / Full-Stack Development / Data Science]
+
+## Technical Skills
+
+| Category | Technologies |
+
+|------------|-----------------------------------------------------|
+
+| Languages | Python (Beginner), Bash / Shell Scripting |
+
+| Tools | Git, GitHub, VS Code, Linux Terminal, Postman |
+
+| Concepts | File Systems, Process Management, REST APIs, Markdown |
+
+## Featured Projects
+
+- [CSE103 Lab — LAB 3](https://github.com/[username]/cse103-lab-LAB3)
+
+Git workflows, API interaction, and Markdown documentation
+
+## Currently Working On
+
+- Semester 1 lab projects and building daily problem-solving habits
+
+## Connect With Me
+
+- LinkedIn : [Your LinkedIn Profile URL]
+
+- Email : [2601730124@krmu.edu.in]
