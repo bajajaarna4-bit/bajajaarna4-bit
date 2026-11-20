@@ -32,6 +32,6 @@ Git workflows, API interaction, and Markdown documentation
 
 ## Connect With Me
 
-- LinkedIn : [Your LinkedIn Profile URL]
+- LinkedIn : [https://www.linkedin.com/in/aarna-bajaj-482094414/]
 
 - Email : [2601730124@krmu.edu.in]
